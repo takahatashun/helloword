@@ -1,1 +1,1 @@
-# Hello word in every language
+# Hello world in every language
