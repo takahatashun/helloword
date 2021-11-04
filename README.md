@@ -4,10 +4,11 @@ A collection of every posibble hello world programs
 
 ## Contributing.
 
-Wanna cointribute? 
 Take a look at [contribution guide](https://github.com/centopw/helloworld/blob/master/CONTRIBUTING.md)
 
 ## Stats.
+
+As of now this repository have over 16 language and counting!.
 
 | Table of content   |Number of language   | Language
 | -------------------|---------------------|----------------
@@ -38,7 +39,6 @@ Take a look at [contribution guide](https://github.com/centopw/helloworld/blob/m
 | [Y][Y]             | 0 |  
 | [Z][Z]             | 0 |  
 
-As of now this repository have over 16 languege and counting!.
 
 
 
