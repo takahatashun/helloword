@@ -5,7 +5,7 @@ A collection of every posibble hello world programs
 ## Contributing.
 
 Wanna cointribute? 
-Just request a pull request and we hanlder the rest!
+Take a look at
 
 ## Stats.
 
