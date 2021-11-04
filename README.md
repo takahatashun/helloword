@@ -9,8 +9,8 @@ Take a look at [contribution guide](https://github.com/centopw/helloworld/blob/m
 
 ## Stats.
 
-| Table of content  | Language                                        |Number of languest |  
-| ------------------|------------------------------------------------------------------------------------
+| Table of content  | Language                                        |Number of languest  |  
+| ------------------|-------------------------------------------------|--------------------|----------------
 | [A](https://github.com/centopw/helloworld/tree/master/Code/A)       |1                   | Assembly
 | [B](https://github.com/centopw/helloworld/tree/master/Code/B)       |1                   | Brainfuck
 | [C](https://github.com/centopw/helloworld/tree/master/Code/C)       |3                   | C, C#, C++
