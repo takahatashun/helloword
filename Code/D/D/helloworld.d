@@ -1,3 +1,10 @@
+//////////////////////////////
+//
+// Author: Kazoku
+// Date: 04/11/2021
+//
+//////////////////////////////
+
 import std.stdio;
 void main() {
     writeln("hello world");
