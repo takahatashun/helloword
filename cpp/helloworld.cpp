@@ -6,9 +6,9 @@
 //
 //////////////////////////////
 
-#include <stdio.h>
+#include <iostream>
 
 int main() {
-	puts("hello word");
+	std::cout << "hello world";
 	return 0;
 }

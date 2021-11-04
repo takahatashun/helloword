@@ -5,4 +5,4 @@
 #
 #############################
 
-puts "hello word"
+puts "hello world"
