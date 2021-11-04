@@ -5,7 +5,7 @@ A collection of every posibble hello world programs
 ## Contributing.
 
 Wanna cointribute? 
-Take a look at
+Take a look at (CONTRIBUTING)[https://github.com/centopw/helloworld/blob/master/CONTRIBUTING.md]
 
 ## Stats.
 
