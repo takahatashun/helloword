@@ -1,10 +1,20 @@
-# Hello world in every language
+<h1 align="center"><code>hello world</code></h1>
+<p align="center">
+    <strong>A collection of hello world snippets in multiple programming languages.</strong>
+</p>
 
-A collection of every posibble hello world programs
+## ⚡️ Contribution Guidelines
 
-## Contributing.
+1. Create a pull request that adds a new Language. 
+2. Create a folder with the name of the programing language.
+3. The new file must be named `<helloworld>.<extension>`
+  - Please don't use characters that are invalid on Windows or Linux
+  - Place the file in the right folder inside `./code/`. Please please **no new files on the root directory!**
+4. The program output can be `Hello World`, `Hello World!`, `hello world`, `Hello, world`, `hello, world`, etc... 
+  - It can print to console, output text to screen or to a file, or use whatever form of output your language supports (e.g a  function returning a string/array of char/array of bytes/seeded random number generator/Huffman encoded integer that represents hello world)
 
-Take a look at [contribution guide](https://github.com/centopw/helloworld/blob/master/CONTRIBUTING.md)
+
+**Note** Don't add existing language to the repo
 
 ## Stats.
 
@@ -68,4 +78,3 @@ As of now this repository have over 16 language and counting!.
 [X]: https://github.com/centopw/helloworld/tree/master/Code/X
 [Y]: https://github.com/centopw/helloworld/tree/master/Code/Y
 [Z]: https://github.com/centopw/helloworld/tree/master/Code/Z
-
