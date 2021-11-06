@@ -14,7 +14,7 @@
   - It can print to console, output text to screen or to a file, or use whatever form of output your language supports (e.g a  function returning a string/array of char/array of bytes/seeded random number generator/Huffman encoded integer that represents hello world)
 
 
-**Note** Don't add existing language to the repo
+**Note** Don't add existing language to the repo.
 
 ## Stats.
 
